@@ -1,1 +1,4 @@
 # Convert-speech-to-text & text-to-speech
+In this task, I converted the sound that is recorded by the microphone into a text file through a Python code so that when the recording starts, the speech is stored in the text file, and then, I converted the text file into an audio file so that when the audio file is played, we will hear the speech that is stored from the recording to the text file.
+I also used the IBM Watson assistant to perform this task, by creating a resource from the speech-to-text service, a service that converts the human voice into the written word, taking the API key and the region and placing it in the Python code to complete the speech-to-text task.
+For the task of converting text to speech, I created a resource from the text-to-speech service, which is a service that converts written text to natural-sounding speech, I took the API key and URL from it and put it in the Python code to complete the task.
